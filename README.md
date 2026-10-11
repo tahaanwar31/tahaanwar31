@@ -1,54 +1,71 @@
-<h3 align="center">Backend Developer · Machine Learning Engineer · Building AI-Powered Applications</h3>
+<h1 align="center">Hi, I'm Taha Anwer 👋</h1>
+
+<h3 align="center">Computer Science Student · Python Developer · AI/ML Enthusiast</h3>
 
 ---
 
 ## About Me
 
-I build backend systems and bring machine learning models into real products. Most of my work is API design and database engineering, and connecting trained models to services people can actually use.
+I'm a Computer Science student at **FAST NUCES Karachi**, interested in backend development, machine learning, and building practical software solutions.
 
-- Backend with **Python**, **FastAPI**, **PostgreSQL**, and **Redis**
-- Machine learning with **Scikit-learn**, **NumPy**, **Pandas**, and **OpenCV**
-- Integrating and deploying ML models as **REST APIs**, containerized with **Docker**
-- Comfortable with auth, data modeling, testing, and Linux-based deployment
+- I enjoy working with **Python** and exploring **machine learning** algorithms
+- I like developing applications that solve **real-world problems**
+- Comfortable on **Linux**, from the command line to Bash scripting
 
 ---
 
 ## Tech Stack
 
-**Backend**&nbsp;
+**Languages**&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
+**Backend**&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?logo=openapiinitiative&logoColor=white)
-![Auth](https://img.shields.io/badge/Auth-JWT-000000?logo=jsonwebtokens&logoColor=white)
 
 **Databases**&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 **ML & Data Science**&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-FF6F00)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-8E44AD)
 
-**Tools & DevOps**&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+**Linux & Scripting**&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Linux CLI](https://img.shields.io/badge/Linux_CLI-FCC624?logo=linux&logoColor=black)
+
+**Deployment & Tools**&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 
 ---
 
-## What I Focus On
+## Projects
 
-- Backend-focused web development
-- Machine learning model integration and deployment
-- API development and database engineering
-- AI-powered applications
+- **EduCards**: an AI-powered flashcard platform designed for Cambridge O/A Level students
+- **FAST Clusters**: a university society management portal for events, approvals, and society administration
+- **Class Wars**: a gamified programming competition platform built for Developers Day 2026
+
+---
+
+## Areas of Interest
+
+- Python Backend Development
+- Machine Learning Engineering
+- AI-Powered Applications
+- Database Design
+- Linux and Automation
 
 ---
 
